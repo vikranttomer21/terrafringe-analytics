@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Power BI files to ignore (Optional: remove *.pbix if you want to host the dashboard file on GitHub)
+*.pbit
+*Backup*.pbix
+
+# Ignore generated CSVs to save space, forcing users to run the script themselves
+localized_deforestation_events.csv
