@@ -7,11 +7,13 @@ TerraFringe Analytics is a comprehensive business intelligence and spatial data 
 Dashboard Previews
 
 Page 1: Canopy Fragmentation & Spatial Bleed
+
 ![Page 1](assets/TerraFringe_page_1.png)
 
 Visualizing the 30-year inward retreat of the forest canopy using custom Python-generated spatial coordinates mapped in ArcGIS.
 
 Page 2: Socio-Ecological Interface
+
 ![Page 1](assets/TerraFringe_page_2.png)
 
 Tracking the anthropogenic friction—fringe population pressure, waterhole desiccation, and human-wildlife conflict escalation.
