@@ -79,15 +79,3 @@ Data Visualization & Modeling: Microsoft Power BI, DAX, Power Query.
 Spatial Generation & Processing: Python (Pandas, GeoPandas, Shapely, NumPy).
 
 Mapping Engine: ArcGIS for Power BI.
-
-How to Run the Spatial Generator
-
-If you wish to update the spatial coordinates based on new loss data:
-
-Ensure your Python environment has the required libraries: pip install pandas geopandas shapely numpy
-
-Place yearly_loss_numbers.csv and raw_corridors.geojson in the working directory.
-
-Run the engine: python generate_hotspots.py
-
-Open the Power BI file and click Refresh to load the newly generated localized_deforestation_events.csv.
